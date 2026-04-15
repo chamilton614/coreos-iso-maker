@@ -1,3 +1,6 @@
+
+## Forked from Chuckersjp and continuing to use - still works on 4.19!
+
 ## WARNING!  WARNING!  WARNING!
 It has been brought to my attention that use of coreos-iso-maker may geerate images that may NOT be supported
 if you plan to install your cluster in FIPS mode.  A customer was having issues with a FIPS based cluster that
