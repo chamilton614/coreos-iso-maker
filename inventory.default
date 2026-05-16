@@ -3,37 +3,37 @@ all:
   children:
     bootstrap:
       hosts:
-        ocpbootstrap.cmers.com:
+        ocpbootstrap.example.com:
           ipv4: 10.12.6.84
     
     master:
       hosts:
-        dvstocpmaster1.cmers.com:
+        ocpmaster1.example.com:
           ipv4: 10.12.6.97
 
-        dvstocpmaster2.cmers.com:
+        ocpmaster2.example.com:
           ipv4: 10.12.6.98
 
-        dvstocpmaster3.cmers.com:
+        ocpmaster3.example.com:
           ipv4: 10.12.6.99
         
     worker:
       hosts:
-        dvstocpinfra1.cmers.com:
+        ocpinfra1.example.com:
           ipv4: 10.12.6.91
 
-        dvstocpinfra2.cmers.com:
+        ocpinfra2.example.com:
           ipv4: 10.12.6.92
 
-        dvstocpinfra3.cmers.com:
+        ocpinfra3.example.com:
           ipv4: 10.12.6.93
 
-        dvstocpworker1.cmers.com:
+        ocpworker1.example.com:
           ipv4: 10.12.6.94
 
-        dvstocpworker2.cmers.com:
+        ocpworker2.example.com:
           ipv4: 10.12.6.95
 
-        dvstocpworker3.cmers.com:
+        ocpworker3.example.com:
           ipv4: 10.12.6.96  
 ...
