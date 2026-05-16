@@ -19,6 +19,8 @@ Icon?
 # Inventory files with sensitive data
 inventory.ini
 inventory.yml
+inventory-multinic.ini
+inventory-multinic.yml
 # Ansible temporary files
 *.log
 *.tmp
