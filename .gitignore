@@ -1,0 +1,39 @@
+# -------------------------
+# macOS system files
+# -------------------------
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+
+# -------------------------
+# Ansible
+# -------------------------
+# Local retry files
+*.retry
+# Vault password files
+.vault_pass.txt
+# Inventory files with sensitive data
+inventory.ini
+inventory.yml
+# Ansible temporary files
+*.log
+*.tmp
+
+# -------------------------
+# Python (if using Ansible with Python scripts)
+# -------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.eggs/
+
+# -------------------------
+# Misc. Ignore
+# -------------------------
+
