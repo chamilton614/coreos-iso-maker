@@ -12,7 +12,7 @@ dns:
   - 10.12.6.41
   - 10.12.6.42
 
-webserver_url: 10.12.6.88
+webserver_url: 10.12.6.113
 webserver_port: 8080
 # Ignition subpath in http server (optionnal, defaults to nothing)
 webserver_ignition_path: /ignition
